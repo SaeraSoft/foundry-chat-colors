@@ -7,6 +7,9 @@
             "name": "Lymphatus"
         }
     ],
+    "esmodules": [
+        "scripts/chat-colors.js"
+    ],
     "version": "0.1.0",
     "compatibility": {
         "minimum": "10",
