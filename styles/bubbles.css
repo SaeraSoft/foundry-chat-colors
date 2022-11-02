@@ -3,7 +3,14 @@
     font-style: italic!important;
 }
 
+.tpc-whisper .message-content {
+    font-style: italic!important;
+}
+
 .tpc-emote {
     background-color: #fde68a!important;
+}
+
+.tpc-emote .message-content {
     font-style: italic!important;
 }
