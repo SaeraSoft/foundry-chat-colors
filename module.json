@@ -1,0 +1,15 @@
+{
+    "id": "foundry-chat-colors",
+    "title": "Chat bubbles enhancer",
+    "description": "Different colors for different messages",
+    "authors": [
+        {
+            "name": "Lymphatus"
+        }
+    ],
+    "version": "0.1.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+    }
+}
