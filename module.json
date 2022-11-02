@@ -11,7 +11,7 @@
         "scripts/chat-colors.js"
     ],
     "styles": [
-        "bubbles.css"
+        "styles/bubbles.css"
     ],
     "url": "https://github.com/SaeraSoft/foundry-chat-colors",
     "manifest": "https://github.com/SaeraSoft/foundry-chat-colors/blob/main/module.json",
